@@ -8,6 +8,12 @@ fr:
   languageName: Français
   params:
     contact_details:
+      social_networks:
+        linkedin:
+          label: >-
+            inspiration-radicale
+          value: >-
+            https://www.linkedin.com/company/inspiration-radicale/
 
   permalinks:
     pages_categories: /:slug/
