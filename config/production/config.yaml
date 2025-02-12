@@ -2,6 +2,11 @@
 
 baseURL: https://inspiration-radicale.gabrielmalek.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 097007e1-b238-4445-a4c6-aaa1af252c65
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
